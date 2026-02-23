@@ -5,7 +5,7 @@
 
 ## 🔗 Acesse o Protótipo
 O MVP está em fase de testes e acessível via web. 
-**[Clique aqui para acessar o protótipo na Vercel] [](https://wemuv.vercel.app)**
+**[Clique aqui para acessar o protótipo na Vercel] (https://wemuv.vercel.app)**
 
 ## 💡 O Problema e a Solução
 A Wemuv centraliza venda, pagamento e entrega para resolver a falta de confiança em transações locais. O pagamento do comprador fica retido na plataforma e só é liberado para o vendedor após a confirmação rigorosa da entrega, eliminando golpes de ambas as partes.
