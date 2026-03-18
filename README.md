@@ -1,4 +1,4 @@
-# 🚀 Wemuv (Protótipo)
+# 🚀 Wemuv (Protótipo) 
 **Marketplace hiperlocal com foco em segurança nas transações e entregas.**
 
 > ⚠️ **Aviso:** Este é um repositório de apresentação (Showcase). O código-fonte oficial e a lógica de negócios estão armazenados em um repositório privado para proteção de Propriedade Intelectual.
